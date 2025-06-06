@@ -181,6 +181,7 @@ springdoc.swagger-ui.enabled=true
 - 🔗 **Link deploy em nuvem**: https://railway.com/project/7f3ad428-9282-48e4-b96b-9e5d85706a67/service/48009547-ae29-44fc-a947-c6dcd8008e54?environmentId=56ffbfa4-0f52-4e7b-863d-5048e3f57d23
 - 🔗 **Swagger - Documentação da API**: http://localhost:8080/swagger-ui/index.html
 - 🎥 **Vídeo Demonstração da Solução (até 10 min)**: https://www.youtube.com/watch?v=PTNOFwL2eQE
+- 🎥 **Vídeo Pitch (até 3 min)**: https://www.youtube.com/watch?v=u6mEgGS1R7w
 
 ---
 
