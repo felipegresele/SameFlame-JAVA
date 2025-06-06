@@ -210,7 +210,7 @@ http://localhost:8080/swagger-ui/index.html
 ```bash
 git clone https://github.com/felipegresele/SameFlame-MOBILE.git
 
-IMPORTANTE: Necessário ter o Android Studio instalado para conseguir executar
+IMPORTANTE: Necessário ter o Android Studio instalado para executar
 ```
 
 
