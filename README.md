@@ -68,7 +68,7 @@ A aplicação utiliza **JWT (Bearer Token)** para autenticação e autorização
 ### Fluxo:
 
 1. O usuário se cadastra com e-mail e senha via `POST /usuarios`
-2. Depois, realiza login via `POST /auth/login`
+2. Depois, realiza login via `POST /login`
 3. Ao logar, recebe um **token JWT**
 4. Para acessar rotas protegidas (ex: denúncias), o token deve ser enviado no **header**:
    ```
